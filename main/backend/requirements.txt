@@ -4,3 +4,5 @@ sqlmodel
 pydantic
 joblib
 python-multipart
+transformers
+torch
